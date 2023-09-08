@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Diwei Zou (邹迪玮), and I come from Hubei Province. I am a senior undergraduate student at [Hongyi Honor College](https://hyxt.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), where I am majoring in Microelectronics Science and Engineering. My research interests revolve around NV Center in Diamond, Quantum Information, Quantum Sensing, and Density Functional Theory.
+
+During my leisure time, I actively participate as a member of the Wuhan University Symphony Orchestra, where I play percussion instruments. I have had the privilege of performing in numerous concerts both on and off campus. Additionally, I am an enthusiastic cycling enthusiast. If you're interested, you can check out my cycling activities on my [Strava Account](https://www.strava.com/athletes/95558291), and feel free to join me for a ride anytime. 😉
 
 A data-driven personal website
 ======
