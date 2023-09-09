@@ -17,7 +17,7 @@ During my leisure time, I actively participate as a member of the Wuhan Universi
 ## University of Science and Technology of China (USTC), Hefei<br>中国科学技术大学
 Sept. 2023 - June 2024 (Expected)
 
-Final Year Project in Division of Quantum Physics and Quantum Information, School of Physics Science
+Final Year Project in Division of Quantum Physics and Quantum Information (QPQI)<br>Hefei National Laboratory(HFNL)
 
 Advisor: Prof. Qichao Sun
 
