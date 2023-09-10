@@ -101,7 +101,7 @@ Senior High School Diploma in Science
 #### Table Tennis
 
 # Awards
-#### First Prize in Hubei Province of the 13th National Mathematics Competition for College Students （Dec. 2021)
-#### Second Prize of the 6th National College student Art Festival (May 2021)
-#### First Prize of the 7th College student Art Festival in Hubei Province (Dec. 2020)
+#### First Prize in Hubei Province of the 13<sup>th</sup> National Mathematics Competition for College Students （Dec. 2021)
+#### Second Prize of the 6<sup>th</sup> National College student Art Festival (May 2021)
+#### First Prize of the 7<sup>th</sup> College student Art Festival in Hubei Province (Dec. 2020)
 #### Second-order Scholarship in Wuhan University (Dec. 2021 and 2022)
