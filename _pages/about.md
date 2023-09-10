@@ -40,14 +40,30 @@ Senior High School Diploma in Science
 > **Advisors**: [Prof. Hui Li](https://pmc.whu.edu.cn/info/1017/13528.htm) and [Prof. Wei Shen](https://technology.whu.edu.cn/info/1062/1981.htm), Wuhan University
 > 
 > **Institute**: [The Institute of Technological Sciences, Wuhan University](https://technology.whu.edu.cn/index.htm)
+>
+> **China Patent**: [n型共掺杂金刚石半导体材料制备的多尺度耦合仿真方法 (No. ZL 2021 1 0646664.5)](../files/n型共掺杂金刚石半导体材料制备的多尺度耦合仿真方法.pdf)
 > 
 > **Time**: Jan. 2021 - June 2021, completed
 - Learned about the properties of the diamond semiconductor material.
 - Learned about the manufacturing processes and applications of the n-type co-doped diamond semiconductor material.
 - Created a conceptual simulation model of MPCVD method to produce diamond semiconductor material in macroscopic, mesoscopic and microcosmic perspectives.
 - Proposed multi-scale coupling simulation methods to select appropriate dopants for diamond semiconductor material.
-- Completed the investigation and writing of an invention patent “Multi-scale coupling simulation method for preparing n-type co-doped diamond semiconductor material”, which has been authorized by the China National Intellectual Property Administration (CNIPA): [Patent No. ZL 2021 1 0646664.5](../files/n型共掺杂金刚石半导体材料制备的多尺度耦合仿真方法.pdf).
+- Completed the investigation and writing of an invention patent “Multi-scale coupling simulation method for preparing n-type co-doped diamond semiconductor material”, which has been authorized by the China National Intellectual Property Administration (CNIPA).
 
+## NV center in n-type doped diamond based on first principles
+> **Advisor**: [Prof. Wei Shen](https://technology.whu.edu.cn/info/1062/1981.htm) and [Prof. Gai Wu](https://technology.whu.edu.cn/info/1062/1985.htm), Wuhan University
+> 
+> **Institute**: [The Institute of Technological Sciences, Wuhan University](https://technology.whu.edu.cn/index.htm)
+>
+> **Preprint**:[Influence of phosphorus donor on the NV center: A first-principles study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412693)
+> 
+> **Time**: June 2022 - now, submitted to journal, under peer review
+
+- Learned about properties of NV center in diamond for quantum applications.
+-	Learned about properties of density-functional theory based on first principles and its application in simulation of NV center, as well as relative software (VASP, PWmat).
+-	Created different kinds of crystal configurations and explored their influences on the electronic and optical properties of NV center, and proved the phosphorus donor could keep the functionality of NV center.
+-	Explored non-local excitation mechanism between the NV center and the phosphorus donor (both the one-photon and two-photon ways) and showed the phosphorus donor could enhance the stability of NV-, compared with nitrogen donor.
+-	Complete the simulation work and writing an academic paper “Influence of phosphorus donor on the NV center: A first-principles study”. This paper has been submitted to Diamond and Related Materials, which is now under review.
 
 
 Getting started
