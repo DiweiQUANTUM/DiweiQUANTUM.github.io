@@ -17,14 +17,14 @@ During my leisure time, I actively participate as a member of the Wuhan Universi
 ## University of Science and Technology of China (USTC), Hefei<br>中国科学技术大学
 Sept. 2023 - June 2024 (Expected)
 
-Final Year Project in Division of Quantum Physics and Quantum Information (QPQI)<br>Hefei National Laboratory(HFNL)
+Final Year Project in [Division of Quantum Physics and Quantum Information (QPQI)](https://quantum.ustc.edu.cn/web/)<br>Hefei National Laboratory(HFNL)
 
 Advisor: [Prof. Qichao Sun](https://quantum.ustc.edu.cn/web/en/node/1077)
 
 ## Wuhan University (WHU), Wuhan<br>武汉大学
 Sept. 2020 - June 2024 (Expected)
 
-Senior Undergraduate in Microelectronics Science and Engineering, Hongyi Honor College
+Senior Undergraduate in Microelectronics Science and Engineering, [Hongyi Honor College](https://hyxt.whu.edu.cn/)
 
 Advisor: [Prof. Wei Shen](https://technology.whu.edu.cn/info/1062/1981.htm)
 
