@@ -14,7 +14,7 @@ During my leisure time, I actively participate as a member of the Wuhan Universi
 <br/>
 <br/>
 
-# <u>Education Background</u>
+# Education Background
 ## University of Science and Technology of China (USTC), Hefei<br>中国科学技术大学
 Sept. 2023 - June 2024 (Expected)
 
@@ -35,7 +35,7 @@ Sept. 2017 - June 2020
 Senior High School Diploma in Science
 <br/>
 <br/>
-# <u>Experience & Projects</u>
+# Experience & Projects
 (Updated Time: July 2<sup>nd</sup>, 2023)
 
 ## N-type co-doped diamond semiconductor material
@@ -81,7 +81,7 @@ Senior High School Diploma in Science
 -	Proposed an idea about surface charge transfer doping method to create n-type diamond surface for quantum sensor based on the NV center. I am now establishing simulation models to verify my guess and finding possible breakthroughs for further research.
 <br/>
 <br/>
-# <u>Technical Skills</u>
+# Technical Skills
 
 ## Software
 #### [Vienna Ab initio Simulation Package (VASP)](https://www.vasp.at/) (Most Frequently)
@@ -96,12 +96,12 @@ Senior High School Diploma in Science
 #### Linux
 <br/>
 <br/>
-# <u>Languages</u>
+# Languages
 #### Mandarin (Native Speaker)
 #### English (Proficiency)
 <br/>
 <br/>
-# <u>Hobbies</u>
+# Hobbies
 #### Cycling
 #### Symphony Orchestra - Percussionist
 #### Table Tennis
