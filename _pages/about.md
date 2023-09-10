@@ -19,19 +19,34 @@ Sept. 2023 - June 2024 (Expected)
 
 Final Year Project in Division of Quantum Physics and Quantum Information (QPQI)<br>Hefei National Laboratory(HFNL)
 
-Advisor: Prof. Qichao Sun
+Advisor: [Prof. Qichao Sun](https://quantum.ustc.edu.cn/web/en/node/1077)
 
 ## Wuhan University (WHU), Wuhan<br>武汉大学
 Sept. 2020 - June 2024 (Expected)
 
 Senior Undergraduate in Microelectronics Science and Engineering, Hongyi Honor College
 
-Advisor: Prof. Wei Shen
+Advisor: [Prof. Wei Shen](https://technology.whu.edu.cn/info/1062/1981.htm)
 
 ## No.1 Middle School affliated to Central China Normal University, Wuhan<br>华中师范大学第一附属中学
 Sept. 2017 - June 2020
 
 Senior High School Diploma in Science
+
+# Experience & Projects
+(Updated Time: July 2<sup>nd</sup>, 2023)
+
+## N-type co-doped diamond semiconductor material
+> **Advisors**: [Prof. Hui Li](https://pmc.whu.edu.cn/info/1017/13528.htm) and [Prof. Wei Shen](https://technology.whu.edu.cn/info/1062/1981.htm), Wuhan University
+> 
+> **Institute**: [The Institute of Technological Sciences, Wuhan University](https://technology.whu.edu.cn/index.htm)
+> 
+> **Time**: Jan. 2021 - June 2021, completed
+- Learned about the properties of the diamond semiconductor material.
+- Learned about the manufacturing processes and applications of the n-type co-doped diamond semiconductor material.
+- Created a conceptual simulation model of MPCVD method to produce diamond semiconductor material in macroscopic, mesoscopic and microcosmic perspectives.
+- Proposed multi-scale coupling simulation methods to select appropriate dopants for diamond semiconductor material.
+- Completed the investigation and writing of an invention patent “Multi-scale coupling simulation method for preparing n-type co-doped diamond semiconductor material”, which has been authorized by the China National Intellectual Property Administration (CNIPA): [Patent No. ZL 2021 1 0646664.5](../files/n型共掺杂金刚石半导体材料制备的多尺度耦合仿真方法.pdf).
 
 
 
