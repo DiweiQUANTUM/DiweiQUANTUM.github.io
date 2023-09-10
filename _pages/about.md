@@ -11,7 +11,7 @@ redirect_from:
 My name is Diwei Zou (邹迪玮), and I come from Hubei Province. I am a senior undergraduate student at [Hongyi Honor College](https://hyxt.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), where I am majoring in Microelectronics Science and Engineering. I am now doing my final year project in [Division of Quantum Physics and Quantum Information](https://quantum.ustc.edu.cn/web/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). My research interests revolve around NV Center in Diamond, Quantum Information, Quantum Sensing, and Density Functional Theory.
 
 During my leisure time, I actively participate as a member of the Wuhan University Symphony Orchestra, where I play percussion instruments. I have had the privilege of performing in numerous concerts both on and off campus. Additionally, I am an enthusiastic cycling enthusiast. If you're interested, you can check out my cycling activities on my [Strava Account](https://www.strava.com/athletes/95558291), and feel free to join me for a ride anytime. 😉
-
+<br/>
 
 # Education Background
 ## University of Science and Technology of China (USTC), Hefei<br>中国科学技术大学
@@ -32,7 +32,7 @@ Advisor: [Prof. Wei Shen](https://technology.whu.edu.cn/info/1062/1981.htm)
 Sept. 2017 - June 2020
 
 Senior High School Diploma in Science
-
+<br/>
 # Experience & Projects
 (Updated Time: July 2<sup>nd</sup>, 2023)
 
@@ -77,7 +77,7 @@ Senior High School Diploma in Science
 -	Repeated the work conducted by my adviser (Assoc. Prof. Wei Shen), collected and organized data for the paper: [Shen, Wei, et al. "Fluorine-terminated diamond (110) surfaces for nitrogen-vacancy quantum sensors." Carbon 193 (2022): 17-25](https://doi.org/10.1016/j.carbon.2022.02.017).
 -	Learned the migration of the vacancy towards the nitrogen when creating NV centers and figured out the energies in transition states to prove the mechanism of preparing the NV center with high temperature annealing (recent work).
 -	Proposed an idea about surface charge transfer doping method to create n-type diamond surface for quantum sensor based on the NV center. I am now establishing simulation models to verify my guess and finding possible breakthroughs for further research.
-
+<br/>
 # Technical Skills
 
 ## Software
@@ -91,11 +91,11 @@ Senior High School Diploma in Science
 #### Python (Most Frequently)
 #### [MATLAB - MathWorks](https://www.mathworks.com/)
 #### Linux
-
+<br/>
 # Languages
 #### Mandarin (Native Speaker)
 #### English (Proficiency)
-
+<br/>
 # Hobbies
 #### Cycling
 #### Symphony Orchestra - Percussionist
