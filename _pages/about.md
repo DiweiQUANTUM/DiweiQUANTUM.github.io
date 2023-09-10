@@ -12,8 +12,9 @@ My name is Diwei Zou (邹迪玮), and I come from Hubei Province. I am a senior 
 
 During my leisure time, I actively participate as a member of the Wuhan University Symphony Orchestra, where I play percussion instruments. I have had the privilege of performing in numerous concerts both on and off campus. Additionally, I am an enthusiastic cycling enthusiast. If you're interested, you can check out my cycling activities on my [Strava Account](https://www.strava.com/athletes/95558291), and feel free to join me for a ride anytime. 😉
 <br/>
+<br/>
 
-# Education Background
+# <u>Education Background</u>
 ## University of Science and Technology of China (USTC), Hefei<br>中国科学技术大学
 Sept. 2023 - June 2024 (Expected)
 
@@ -33,7 +34,8 @@ Sept. 2017 - June 2020
 
 Senior High School Diploma in Science
 <br/>
-# Experience & Projects
+<br/>
+# <u>Experience & Projects</u>
 (Updated Time: July 2<sup>nd</sup>, 2023)
 
 ## N-type co-doped diamond semiconductor material
@@ -78,7 +80,8 @@ Senior High School Diploma in Science
 -	Learned the migration of the vacancy towards the nitrogen when creating NV centers and figured out the energies in transition states to prove the mechanism of preparing the NV center with high temperature annealing (recent work).
 -	Proposed an idea about surface charge transfer doping method to create n-type diamond surface for quantum sensor based on the NV center. I am now establishing simulation models to verify my guess and finding possible breakthroughs for further research.
 <br/>
-# Technical Skills
+<br/>
+# <u>Technical Skills</u>
 
 ## Software
 #### [Vienna Ab initio Simulation Package (VASP)](https://www.vasp.at/) (Most Frequently)
@@ -92,16 +95,18 @@ Senior High School Diploma in Science
 #### [MATLAB - MathWorks](https://www.mathworks.com/)
 #### Linux
 <br/>
-# Languages
+<br/>
+# <u>Languages</u>
 #### Mandarin (Native Speaker)
 #### English (Proficiency)
 <br/>
-# Hobbies
+<br/>
+# <u>Hobbies</u>
 #### Cycling
 #### Symphony Orchestra - Percussionist
 #### Table Tennis
 
-# Awards
+# <u>Awards</u>
 #### First Prize in Hubei Province of the 13<sup>th</sup> National Mathematics Competition for College Students （Dec. 2021)
 #### Second Prize of the 6<sup>th</sup> National College student Art Festival (May 2021)
 #### First Prize of the 7<sup>th</sup> College student Art Festival in Hubei Province (Dec. 2020)
