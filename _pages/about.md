@@ -81,6 +81,7 @@ Senior High School Diploma in Science
 -	Proposed an idea about surface charge transfer doping method to create n-type diamond surface for quantum sensor based on the NV center. I am now establishing simulation models to verify my guess and finding possible breakthroughs for further research.
 <br/>
 <br/>
+
 # Technical Skills
 
 ## Software
@@ -105,8 +106,9 @@ Senior High School Diploma in Science
 #### Cycling
 #### Symphony Orchestra - Percussionist
 #### Table Tennis
-
-# <u>Awards</u>
+<br/>
+<br/>
+# Awards
 #### First Prize in Hubei Province of the 13<sup>th</sup> National Mathematics Competition for College Students （Dec. 2021)
 #### Second Prize of the 6<sup>th</sup> National College student Art Festival (May 2021)
 #### First Prize of the 7<sup>th</sup> College student Art Festival in Hubei Province (Dec. 2020)
