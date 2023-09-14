@@ -6,7 +6,7 @@ excerpt: 'This paper delves into a Density Functional Theory (DFT) simulation, d
 date: 2023-04-07
 venue: 'SSRN'
 paperurl: 'http://dx.doi.org/10.2139/ssrn.4412693'
-citation: 'Zou, Diwei and Zhou, Jiantao and Li, Lijie and Wang, Qijun and Liang, Kang and Chen, Liwei and Shen, Wei and Wu, Gai, Influence of Phosphorus Donor on the Nv Center: A First-Principles Study. Available at SSRN: https://ssrn.com/abstract=4412693 or http://dx.doi.org/10.2139/ssrn.4412693'
+citation: 'Zou, Diwei and Zhou, Jiantao and Li, Lijie and Wang, Qijun and Liang, Kang and Chen, Liwei and Shen, Wei and Wu, Gai, Influence of Phosphorus Donor on the Nv Center: A First-Principles Study. Available at SSRN.'
 ---
 
 ## Abstract
