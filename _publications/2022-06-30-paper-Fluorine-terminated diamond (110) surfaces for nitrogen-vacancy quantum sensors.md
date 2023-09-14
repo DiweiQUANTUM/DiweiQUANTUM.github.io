@@ -6,7 +6,7 @@ excerpt: 'This paper is about the Desity Functional Theory (DFT) simulation to r
 date: 2022-06-30
 venue: 'Carbon'
 paperurl: 'https://doi.org/10.1016/j.carbon.2022.02.017'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Shen, W., Wu, G., Li, L., Li, H., Liu, S., Shen, S., & Zou, D. (2022). Fluorine-terminated diamond (110) surfaces for nitrogen-vacancy quantum sensors. <i>Carbon, 193</i>, 17-25.s'
 ---
 This paper is about the Desity Functional Theory (DFT) simulation to reveal a new diamond terminal surface to enhance the performance of Nitrogen-Vacancy (NV) Center in diamond.
 
