@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-04-07-paper-Influence of Phosphorus Donor on the Nv Center - A First-Principles Study
 excerpt: 'This paper delves into a Density Functional Theory (DFT) simulation, demonstrating the potential for increased stability and functionality of the Nitrogen-Vacancy (NV) center in phosphorus-doped diamond, surpassing its nitrogen-doped counterparts. Such enhancements hold significant promise for optimizing the performance of the NV center in quantum applications.'
 date: 2023-04-07
-venue: 'Diamond and Related Materials'
+venue: 'SSRN'
 paperurl: 'http://dx.doi.org/10.2139/ssrn.4412693'
 citation: 'Zou, Diwei and Zhou, Jiantao and Li, Lijie and Wang, Qijun and Liang, Kang and Chen, Liwei and Shen, Wei and Wu, Gai, Influence of Phosphorus Donor on the Nv Center: A First-Principles Study. Available at SSRN: https://ssrn.com/abstract=4412693 or http://dx.doi.org/10.2139/ssrn.4412693'
 ---
