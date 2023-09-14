@@ -18,7 +18,7 @@ During my leisure time, I actively participate as a member of the Wuhan Universi
 ## University of Science and Technology of China (USTC), Hefei<br>中国科学技术大学
 Sept. 2023 - June 2024 (Expected)
 
-Visiting Internship in [Division of Quantum Physics and Quantum Information (QPQI)](https://quantum.ustc.edu.cn/web/)<br>Hefei National Laboratory(HFNL)
+Visiting Internship in [Division of Quantum Physics and Quantum Information (QPQI)](https://quantum.ustc.edu.cn/web/)<br>Hefei National Laboratory (HFNL)
 
 Advisor: [Prof. Qichao Sun](https://quantum.ustc.edu.cn/web/en/node/1077)
 
