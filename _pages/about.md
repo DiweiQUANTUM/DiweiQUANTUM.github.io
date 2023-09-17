@@ -43,7 +43,7 @@ Senior High School Diploma in Science
 > 
 > **Institute**: [The Institute of Technological Sciences, Wuhan University](https://technology.whu.edu.cn/index.htm)
 >
-> **China Patent**: [n型共掺杂金刚石半导体材料制备的多尺度耦合仿真方法 (No. ZL 2021 1 0646664.5)](../files/n型共掺杂金刚石半导体材料制备的多尺度耦合仿真方法.pdf)
+> **Chinese Patent**: [n型共掺杂金刚石半导体材料制备的多尺度耦合仿真方法 (No. ZL 2021 1 0646664.5)](../files/n型共掺杂金刚石半导体材料制备的多尺度耦合仿真方法.pdf)
 > 
 > **Time**: Jan. 2021 - June 2021, completed
 
