@@ -60,7 +60,7 @@ Senior High School Diploma in Science
 >
 > **Preprint**: [Influence of phosphorus donor on the NV center: A first-principles study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412693)
 > 
-> **Time**: June 2022 - now, submitted to journal, under peer review
+> **Time**: June 2022 - Mar. 2023, accepted by [*Physica B: Condensed Matter*](https://www.sciencedirect.com/journal/physica-b-condensed-matter), in press
 
 - Learned about properties of NV center in diamond for quantum applications.
 -	Learned about properties of density-functional theory based on first principles and its application in simulation of NV center, as well as relative software (VASP, PWmat).
@@ -79,6 +79,33 @@ Senior High School Diploma in Science
 -	Repeated the work conducted by my adviser (Assoc. Prof. Wei Shen), collected and organized data for the paper: [Shen, Wei, et al. "Fluorine-terminated diamond (110) surfaces for nitrogen-vacancy quantum sensors." Carbon 193 (2022): 17-25](https://doi.org/10.1016/j.carbon.2022.02.017).
 -	Learned the migration of the vacancy towards the nitrogen when creating NV centers and figured out the energies in transition states to prove the mechanism of preparing the NV center with high temperature annealing (recent work).
 -	Proposed an idea about surface charge transfer doping method to create n-type diamond surface for quantum sensor based on the NV center. I am now establishing simulation models to verify my guess and finding possible breakthroughs for further research.
+
+## Machine Learning methods to study wide-bandgap semiconductor structures and properties
+> **Advisor**: [Prof. Wei Shen](https://technology.whu.edu.cn/info/1062/1981.htm) & [Prof. Gai Wu](https://technology.whu.edu.cn/info/1016/1912.htm) Wuhan University
+> 
+> **Institute**: [The Institute of Technological Sciences, Wuhan University](https://technology.whu.edu.cn/index.htm)
+> 
+> **Time**: sept. 2022 - Dec. 2023, completed
+
+-	Participation in NEP Model Development for AlN/Diamond Heterostructures: Contributed to the development and validation of a neuroevolutionary machine learning potential (NEP) model. This model effectively predicted the cleavage planes of AlN/diamond heterostructures, aiding in the understanding of their mechanical properties.
+-	Contribution to Interfacial Property Analysis of AlN/Diamond: Assisted in analyzing the interfacial properties of AlN/diamond heterostructures. Played a key role in research that led to a significant increase in fracture stress and optimization of annealing conditions for better adhesion. 
+- Involvement in Developing Neural Network-Based Potential for β-Ga2O3/Diamond: Participated in the development of a neural network-based interatomic potential to investigate the thermal properties of β-Ga2O3/diamond heterostructures, focusing on thermal boundary resistance (TBR).
+-	Support in Thermal Optimization for β-Ga2O3/Diamond: Aided in devising strategies to minimize TBR in β-Ga2O3/diamond heterostructures. Contributed to enhancing thermal management in high-power electronic devices through strategic selection of crystal orientations and interfacial atoms.
+
+## Charge state measurement of Nitrogen-Vacancy centers in diamond
+> **Advisor**: [Prof. Qichao Sun](https://quantum.ustc.edu.cn/web/en/node/1077), University of Science and Technology of China
+> 
+> **Institute**: [Hefei National Research Center for Physical Sciences at the Microscale, University of Science and Technology](https://www.hfnl.ustc.edu.cn/)
+> 
+> **Time**: sept. 2023 - now, underway
+
+-	Take over my former project "NV center in n-type doped diamond based on first principles" above to illustrate different charge states of NV center with experiments.
+-	Learned about experimental properties of the NV center in diamond and its application in the quantum field.
+-	Constructed confocal microscopy to excite NV center with green laser in 532 nm and make it image with fluorescent luminescence.
+-	Figured out different properties of NV center in various charge states.
+-	Proposed an idea about utilizing different charge states in quantum applications and trying to work out new experimental and algorithmic methods to detect certain charge states automatically.
+
+
 <br/>
 <br/>
 
