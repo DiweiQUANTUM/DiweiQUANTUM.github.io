@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Diwei Zou (邹迪玮), and I come from Hubei Province. I am a senior undergraduate student at [Hongyi Honor College](https://hyxt.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), where I am majoring in Microelectronics Science and Engineering. I am now doing my final year project as a visiting internship in [Division of Quantum Physics and Quantum Information (QPQI)](https://quantum.ustc.edu.cn/web/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I have accepted the conditional offer of the PhD program in the [Department of Physics](http://physics.ust.hk/), [The Hong Kong University of Science and Technology (HKUST, Clear Water Bay)](https://hkust.edu.hk/). My research interests revolve around Nitrogen-Vacancy (NV) Center in Diamond, Quantum Information, and Density Functional Theory.
+My name is Diwei Zou (邹迪玮), and I come from Hubei Province. I am a senior undergraduate student at [Hongyi Honor College](https://hyxt.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), where I am majoring in Microelectronics Science and Engineering. I am now doing my final year project as a visiting internship in [Division of Quantum Physics and Quantum Information (QPQI)](https://quantum.ustc.edu.cn/web/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I have accepted the conditional offer of the PhD program in the [Department of Physics](http://physics.ust.hk/), [The Hong Kong University of Science and Technology (HKUST, Clear Water Bay)](https://hkust.edu.hk/). My research interests revolve around Nitrogen-Vacancy (NV) Center in Diamond, Quantum Information, Quantum Sensing, and Density Functional Theory.
 
 During my leisure time, I actively participate as a member of the Wuhan University Symphony Orchestra, where I play percussion instruments. I have had the privilege of performing in numerous concerts both on and off campus. Additionally, I am an enthusiastic cycling enthusiast. If you're interested, you can check out my cycling activities on my [Strava Account](https://www.strava.com/athletes/95558291), and feel free to join me for a ride anytime. 😉
 <br/>
@@ -73,7 +73,7 @@ Senior High School Diploma in Science
 >
 > **Jouranl Artical**: Diwei Zou, Shengnan Shen, Lijie Li, Qijun Wang, Kang Liang, Liwei Chen, Gai Wu, and Wei Shen. "Influence of phosphorus donor on the NV center in diamond: A first-principles study." [Physica B: Condensed Matter 676 (2024): 415614.](https://doi.org/10.1016/j.physb.2023.415614)
 > 
-> **Time**: June 2022 - Dec. 2023, completed
+> **Time**: June 2022 - now, submitted to journal, under peer review
 
 - Learned about properties of NV center in diamond for quantum applications.
 -	Learned about properties of density-functional theory based on first principles and its application in simulation of NV center, as well as relative software (VASP, PWmat).
@@ -92,35 +92,8 @@ Senior High School Diploma in Science
 -	Repeated the work conducted by my adviser (Assoc. Prof. Wei Shen), collected and organized data for the paper: [Shen, Wei, et al. "Fluorine-terminated diamond (110) surfaces for nitrogen-vacancy quantum sensors." Carbon 193 (2022): 17-25](https://doi.org/10.1016/j.carbon.2022.02.017).
 -	Learned the migration of the vacancy towards the nitrogen when creating NV centers and figured out the energies in transition states to prove the mechanism of preparing the NV center with high temperature annealing (recent work).
 -	Proposed an idea about surface charge transfer doping method to create n-type diamond surface for quantum sensor based on the NV center. I am now establishing simulation models to verify my guess and finding possible breakthroughs for further research.
-
-## Charge state measurement of Nitrogen-Vacancy centers in diamond
-
-> **Advisor**: [Prof. Qichao Sun](https://quantum.ustc.edu.cn/web/en/node/1077)
->
-> **Institute**: [Division of Quantum Physics and Quantum Information (QPQI)](https://quantum.ustc.edu.cn/web/), USTC
->
-> **Time**: Sept. 2023 - now, underway
-
--	Take over my previous project "N-type co-doped diamond semiconductor material" above to illustrate different charge states of NV center with experiments.
--	Learned about experimental properties of the NV center in diamond and its application in quantum field.
--	Constructed confocal microscopy to excite NV center with green laser in 532 nm and make it image with fluorescent luminescence.
--	Figured out different properties of NV center in various charge states.
--	Proposed an idea about utilizing different charge states in quantum applications and trying to work out new experimental and algorithmic methods to detect certain charge states automatically.
-
-
-## Quantum Error Correction Algorithm based on NV centers in diamond
-
-> **Advisor**: [Dr. Yang Wang](https://orcid.org/0000-0002-5483-0339)
->
-> **Institute**: [3. Physikalisches Institut](https://www.pi3.uni-stuttgart.de/), Universität Stuttgart
->
-> **Time**: Sept. 2023 - now, underway
-
--	Learned about the quantum error correction (QEC) algorithm for quantum information and simulation methods.
--	Learned about how to construct the correction system with multiple qubits based on NV centers in diamond.
--	Figured out mechanisms about spin-spin coherences among 13C nuclear spin, NV center electronic and nuclear spin, and manipulation approaches to construct nodes for delivering quantum information.
--	Try to find more sufficient and lower-cost methods to realize the error correction in quantum communication and relay.
-
+<br/>
+<br/>
 
 # Technical Skills
 
